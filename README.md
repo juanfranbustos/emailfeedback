@@ -45,3 +45,12 @@ npm run build
 npm run build --report
 
 ```
+
+
+## Credits
+
+``` bash
+
+Thanks to Stephen Grider for teach me React with this amazing course.
+ 
+```
